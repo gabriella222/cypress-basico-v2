@@ -27,3 +27,27 @@ Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
 ___
 
 Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
+-------------------------------------------------------------------------------
+ ## Projeto de testes automatizados básico criado em Cypress
+
+ ## Pré requisitos
+
+- Versão mais atualizada do Cypress
+- Versão mais atualizada do NODE
+- Versão mais atuaalizada do GIT
+- IDE VS Code ou da sua preferencia
+- Navegador
+
+
+## Instalação das depencias
+
+- Executar o comando no git install node --save dev e logo após a instalaçao executar npm install cypress
+
+
+
+## Passo para rodar os testes
+
+- No terminal escreva, npx cypress open para abrir o Cypress
+
+
+
